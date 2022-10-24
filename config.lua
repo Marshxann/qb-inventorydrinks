@@ -3,7 +3,7 @@
 -- ADD THIS UNDER THE DRINKS SECTION!!!!!!!
 --MAKE SURE U PASTE THIS AT THE BOTTOM OR IT WONT WORK
 
-
+ 
 ["barr-bubblegum"] = math.random(40, 50),
 ["barr-cherryade"] = math.random(40, 50),
 ["barr-cola"] = math.random(40, 50),
